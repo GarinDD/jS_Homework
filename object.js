@@ -43,4 +43,6 @@ let book = {
     yearReleased : 1550,
 }
 
-
+nameX.innerText = book.name
+authorX.innerText = book.author
+yearReleasedX.innerText = book.yearReleased
